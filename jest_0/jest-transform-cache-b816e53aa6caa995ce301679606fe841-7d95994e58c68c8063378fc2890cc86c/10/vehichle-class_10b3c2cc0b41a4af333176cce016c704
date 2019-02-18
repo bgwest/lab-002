@@ -1,0 +1,238 @@
+97166e157594a2eab45bff0662db7abe
+'use strict';
+
+/* istanbul ignore next */
+var cov_2qlbywr1m = function () {
+  var path = "/home/rickbell/code/401/lab002/lab-002/objects/vehichle-class.js";
+  var hash = "7cf9cf3b36242605216f81d23ac05fc317f95bab";
+
+  var Function = function () {}.constructor;
+
+  var global = new Function("return this")();
+  var gcv = "__coverage__";
+  var coverageData = {
+    path: "/home/rickbell/code/401/lab002/lab-002/objects/vehichle-class.js",
+    statementMap: {
+      "0": {
+        start: {
+          line: 4,
+          column: 8
+        },
+        end: {
+          line: 4,
+          column: 25
+        }
+      },
+      "1": {
+        start: {
+          line: 5,
+          column: 8
+        },
+        end: {
+          line: 5,
+          column: 30
+        }
+      },
+      "2": {
+        start: {
+          line: 11,
+          column: 8
+        },
+        end: {
+          line: 11,
+          column: 28
+        }
+      },
+      "3": {
+        start: {
+          line: 17,
+          column: 8
+        },
+        end: {
+          line: 17,
+          column: 28
+        }
+      },
+      "4": {
+        start: {
+          line: 20,
+          column: 0
+        },
+        end: {
+          line: 20,
+          column: 26
+        }
+      },
+      "5": {
+        start: {
+          line: 21,
+          column: 0
+        },
+        end: {
+          line: 21,
+          column: 21
+        }
+      },
+      "6": {
+        start: {
+          line: 22,
+          column: 0
+        },
+        end: {
+          line: 22,
+          column: 28
+        }
+      }
+    },
+    fnMap: {
+      "0": {
+        name: "(anonymous_0)",
+        decl: {
+          start: {
+            line: 3,
+            column: 4
+          },
+          end: {
+            line: 3,
+            column: 5
+          }
+        },
+        loc: {
+          start: {
+            line: 3,
+            column: 30
+          },
+          end: {
+            line: 6,
+            column: 5
+          }
+        },
+        line: 3
+      },
+      "1": {
+        name: "(anonymous_1)",
+        decl: {
+          start: {
+            line: 10,
+            column: 4
+          },
+          end: {
+            line: 10,
+            column: 5
+          }
+        },
+        loc: {
+          start: {
+            line: 10,
+            column: 29
+          },
+          end: {
+            line: 12,
+            column: 5
+          }
+        },
+        line: 10
+      },
+      "2": {
+        name: "(anonymous_2)",
+        decl: {
+          start: {
+            line: 16,
+            column: 4
+          },
+          end: {
+            line: 16,
+            column: 5
+          }
+        },
+        loc: {
+          start: {
+            line: 16,
+            column: 29
+          },
+          end: {
+            line: 18,
+            column: 5
+          }
+        },
+        line: 16
+      }
+    },
+    branchMap: {},
+    s: {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    f: {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    b: {},
+    _coverageSchema: "43e27e138ebf9cfc5966b082cf9a028302ed4184"
+  };
+  var coverage = global[gcv] || (global[gcv] = {});
+
+  if (coverage[path] && coverage[path].hash === hash) {
+    return coverage[path];
+  }
+
+  coverageData.hash = hash;
+  return coverage[path] = coverageData;
+}();
+
+class Vehichle {
+  constructor(name, wheels) {
+    /* istanbul ignore next */
+    cov_2qlbywr1m.f[0]++;
+    cov_2qlbywr1m.s[0]++;
+    this.name = name;
+
+    /* istanbul ignore next */
+    cov_2qlbywr1m.s[1]++;
+    this.wheels = wheels;
+  }
+
+}
+
+;
+
+class Car extends Vehichle {
+  constructor(name, wheels) {
+    /* istanbul ignore next */
+    cov_2qlbywr1m.f[1]++;
+    cov_2qlbywr1m.s[2]++;
+    super(name, wheels);
+  }
+
+}
+
+;
+
+class Motorcycle extends Vehichle {
+  constructor(name, wheels) {
+    /* istanbul ignore next */
+    cov_2qlbywr1m.f[2]++;
+    cov_2qlbywr1m.s[3]++;
+    super(name, wheels);
+  }
+
+}
+
+/* istanbul ignore next */
+cov_2qlbywr1m.s[4]++;
+module.exports = Vehichle;
+
+/* istanbul ignore next */
+cov_2qlbywr1m.s[5]++;
+module.exports = Car;
+
+/* istanbul ignore next */
+cov_2qlbywr1m.s[6]++;
+module.exports = Motorcycle;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInZlaGljaGxlLWNsYXNzLmpzIl0sIm5hbWVzIjpbIlZlaGljaGxlIiwiY29uc3RydWN0b3IiLCJuYW1lIiwid2hlZWxzIiwiQ2FyIiwiTW90b3JjeWNsZSIsIm1vZHVsZSIsImV4cG9ydHMiXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBQ0EsTUFBTUEsUUFBTixDQUFlO0FBQ1hDLEVBQUFBLFdBQVcsQ0FBQ0MsSUFBRCxFQUFPQyxNQUFQLEVBQWU7QUFBQTtBQUFBO0FBQUE7QUFDdEIsU0FBS0QsSUFBTCxHQUFZQSxJQUFaOztBQURzQjtBQUFBO0FBRXRCLFNBQU1DLE1BQU4sR0FBZUEsTUFBZjtBQUNIOztBQUpVOztBQUtkOztBQUVELE1BQU1DLEdBQU4sU0FBa0JKLFFBQWxCLENBQTJCO0FBQ3ZCQyxFQUFBQSxXQUFXLENBQUNDLElBQUQsRUFBT0MsTUFBUCxFQUFjO0FBQUE7QUFBQTtBQUFBO0FBQ3JCLFVBQU1ELElBQU4sRUFBWUMsTUFBWjtBQUNIOztBQUhzQjs7QUFJMUI7O0FBRUQsTUFBTUUsVUFBTixTQUF5QkwsUUFBekIsQ0FBa0M7QUFDOUJDLEVBQUFBLFdBQVcsQ0FBQ0MsSUFBRCxFQUFPQyxNQUFQLEVBQWM7QUFBQTtBQUFBO0FBQUE7QUFDckIsVUFBTUQsSUFBTixFQUFZQyxNQUFaO0FBQ0g7O0FBSDZCOzs7O0FBS2xDRyxNQUFNLENBQUNDLE9BQVAsR0FBaUJQLFFBQWpCOzs7O0FBQ0FNLE1BQU0sQ0FBQ0MsT0FBUCxHQUFpQkgsR0FBakI7Ozs7QUFDQUUsTUFBTSxDQUFDQyxPQUFQLEdBQWlCRixVQUFqQiIsInNvdXJjZXNDb250ZW50IjpbIid1c2Ugc3RyaWN0JztcbmNsYXNzIFZlaGljaGxlIHtcbiAgICBjb25zdHJ1Y3RvcihuYW1lLCB3aGVlbHMpIHtcbiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTtcbiAgICAgICAgdGhpcy4gd2hlZWxzID0gd2hlZWxzO1xuICAgIH07XG59O1xuXG5jbGFzcyBDYXIgZXh0ZW5kcyBWZWhpY2hsZSB7XG4gICAgY29uc3RydWN0b3IobmFtZSwgd2hlZWxzKXtcbiAgICAgICAgc3VwZXIobmFtZSwgd2hlZWxzKTtcbiAgICB9XG59O1xuXG5jbGFzcyBNb3RvcmN5Y2xlIGV4dGVuZHMgVmVoaWNobGUge1xuICAgIGNvbnN0cnVjdG9yKG5hbWUsIHdoZWVscyl7XG4gICAgICAgIHN1cGVyKG5hbWUsIHdoZWVscyk7XG4gICAgfVxufVxubW9kdWxlLmV4cG9ydHMgPSBWZWhpY2hsZTtcbm1vZHVsZS5leHBvcnRzID0gQ2FyO1xubW9kdWxlLmV4cG9ydHMgPSBNb3RvcmN5Y2xlO1xuIl19
