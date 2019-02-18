@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51193a0d-4034-4588-b0d2-1303f49f96f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/jest_0/haste-map-b816e53aa6caa995ce301679606fe841-c695f7b13b6a9969c59424f12cfd8f8d-b0c2c63d09f50086404a3096c4492434" beforeDir="false" afterPath="$PROJECT_DIR$/jest_0/haste-map-b816e53aa6caa995ce301679606fe841-c695f7b13b6a9969c59424f12cfd8f8d-b0c2c63d09f50086404a3096c4492434" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest_0/jest-transform-cache-b816e53aa6caa995ce301679606fe841-7d95994e58c68c8063378fc2890cc86c/0b/vehichle-class.test_0b984802cb90a348ef3ddc6519ff9ff0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest_0/jest-transform-cache-b816e53aa6caa995ce301679606fe841-7d95994e58c68c8063378fc2890cc86c/0b/vehichle-class.test_0b984802cb90a348ef3ddc6519ff9ff0.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest_0/jest-transform-cache-b816e53aa6caa995ce301679606fe841-7d95994e58c68c8063378fc2890cc86c/a7/vehichle.test_a798ff6d611bbf9b945feba199fa186b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest_0/jest-transform-cache-b816e53aa6caa995ce301679606fe841-7d95994e58c68c8063378fc2890cc86c/a7/vehichle.test_a798ff6d611bbf9b945feba199fa186b.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest_0/perf-cache-b816e53aa6caa995ce301679606fe841-d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" afterPath="$PROJECT_DIR$/jest_0/perf-cache-b816e53aa6caa995ce301679606fe841-d41d8cd98f00b204e9800998ecf8427e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/_tests_/vehichle-class.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/_tests_/vehichle-class.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/_tests_/vehichle.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/_tests_/vehichle.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/vehichle-class.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/vehichle-class.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,17 +36,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/objects/vehichle-constructor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
+            <state relative-caret-position="945">
               <caret line="63" column="35" selection-start-line="63" selection-end-line="63" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/objects/vehichle-factory.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-73">
+            <state relative-caret-position="15">
               <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -94,12 +98,13 @@
         <option value="$PROJECT_DIR$/objects/vehichle-class.js" />
         <option value="$PROJECT_DIR$/objects/_tests_/vehichle-class.test.js" />
         <option value="$PROJECT_DIR$/objects/_tests_/vehichle.test.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="107" />
-    <option name="y" value="159" />
+    <option name="y" value="148" />
     <option name="width" value="1553" />
     <option name="height" value="836" />
   </component>
@@ -168,14 +173,15 @@
       <workItem from="1550204236388" duration="1314000" />
       <workItem from="1550206154582" duration="280000" />
       <workItem from="1550346265201" duration="2731000" />
+      <workItem from="1550455247111" duration="546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8417000" />
+    <option name="totallyTimeSpent" value="8963000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="159" width="1553" height="836" extended-state="0" />
+    <frame x="107" y="148" width="1553" height="836" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22352941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -228,13 +234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/objects/vehichle-constructor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="63" column="35" selection-start-line="63" selection-end-line="63" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/objects/vehichle-class.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -242,10 +241,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/objects/_tests_/vehichle.test.js">
+    <entry file="file://$PROJECT_DIR$/objects/vehichle-constructor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="945">
+          <caret line="63" column="35" selection-start-line="63" selection-end-line="63" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -256,10 +255,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/objects/_tests_/vehichle.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/objects/vehichle-factory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
+        <state relative-caret-position="15">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
