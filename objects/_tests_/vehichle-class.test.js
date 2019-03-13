@@ -7,7 +7,7 @@ describe('Vehicles', () => {
 
     describe('Car', () => {
 
-        let vehicle = new Vehicle();
+        let car = new Vehicle.Car();
 
         it('has 4 wheels', () => {
             expect(car.wheels).toEqual(4);
